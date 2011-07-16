@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ToDoActivity!</string>
+    <string name="app_name">TO DO List</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_edit">修改</string>
+    <string name="menu_del">删除</string>
+</resources>
